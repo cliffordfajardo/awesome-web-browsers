@@ -42,6 +42,7 @@
 - [Brave Browser](https://brave.com/)
 - [Dolphin Browser](http://dolphin.com/)
 - [Puffin Browser](https://www.puffin.com/)
+- [Kiwi Browser](https://kiwibrowser.com/)
 
 ## [Terminal Web Browsers](https://en.wikipedia.org/wiki/Text-based_web_browser)
 - [Lynx](http://lynx.browser.org/)
