@@ -33,6 +33,7 @@
 - [Vimb](https://github.com/fanglingsu/vimb)
 - [Vivaldi](https://vivaldi.com/)
 - [Wexond](https://github.com/wexond/wexond)
+- [Yalqen](https://github.com/YSamed/yalqen) - Keyboard-first Chromium browser for macOS with vertical tabs, a command bar, and built-in ad blocking.
 
 ## [Headless Web Browsers](https://en.wikipedia.org/wiki/Headless_browser)
 - [Pupeteer](https://github.com/GoogleChrome/puppeteer)
