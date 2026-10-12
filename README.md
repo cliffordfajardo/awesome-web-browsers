@@ -33,6 +33,7 @@
 - [Vimb](https://github.com/fanglingsu/vimb)
 - [Vivaldi](https://vivaldi.com/)
 - [Wexond](https://github.com/wexond/wexond)
+- [LastBrowser](https://github.com/Loggableim/lastbrowser)
 
 ## [Headless Web Browsers](https://en.wikipedia.org/wiki/Headless_browser)
 - [Pupeteer](https://github.com/GoogleChrome/puppeteer)
